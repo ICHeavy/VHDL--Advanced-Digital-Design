@@ -1,0 +1,8 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Lab_1.srcs/sources_1/imports/Lab_1_1.srcs/sources_1/imports/new/Fadder.vhd" \
+"../../../../Lab_1.srcs/sources_1/imports/Lab_1_1.srcs/sources_1/imports/new/onebitAdder.vhd" \
+"../../../../Lab_1.srcs/sources_1/imports/Lab_1_1.srcs/sim_1/imports/new/Fadder_tb.vhd" \
+
+# Do not sort compile order
+nosort

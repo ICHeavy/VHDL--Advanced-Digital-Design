@@ -1,0 +1,6 @@
+Vivado Simulator 2018.3
+Time resolution is 1 ps
+Error: ERROR, YOURE BAD AT SUBTRACTING
+Time: 290 ns  Iteration: 0  Process: /Fadder_tb/line__34  File: C:/Users/simaj/Documents/School/ADD/Lab_1/Lab_1.srcs/sources_1/imports/Lab_1_1.srcs/sim_1/imports/new/Fadder_tb.vhd
+Note: SIM GUY FINISHED!
+Time: 290 ns  Iteration: 0  Process: /Fadder_tb/line__34  File: C:/Users/simaj/Documents/School/ADD/Lab_1/Lab_1.srcs/sources_1/imports/Lab_1_1.srcs/sim_1/imports/new/Fadder_tb.vhd
